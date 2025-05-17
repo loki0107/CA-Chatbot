@@ -3,4 +3,5 @@ Implements a RAG (Retrieval-Augmented Generation) system using structured CSV da
 No internet or API keys required. Supports training from user input, chat categorization (e.g., GST, Income Tax), and correction feedback.
 
 🔧 Tech Stack: Node.js, Mistral (Ollama), CSV, Local LLM
+
 ✅ Features: Offline training, feedback learning loop, embedding updates, category tagging
